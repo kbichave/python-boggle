@@ -1,4 +1,4 @@
-# Coding Exercise
+# Boggle for grid of any size
 
 This work, finds words that can be formed by a sequence of adjacent (top, bottom, left, right, diagonal) letters using a dictionary of words `words.txt`.
 
